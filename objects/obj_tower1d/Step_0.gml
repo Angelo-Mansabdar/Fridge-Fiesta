@@ -6,4 +6,4 @@ if (mouse_check_button(mb_left)) {
     y = mouse_y;
 };
 
-testen = 10;
+testen = 100;
