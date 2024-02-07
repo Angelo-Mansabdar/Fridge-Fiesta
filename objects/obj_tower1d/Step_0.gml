@@ -12,3 +12,5 @@ if (mouse_check_button(mb_left)) {
 1= 1;
 >>>>>>> Andy
 1= 1;
+
+2=2;
