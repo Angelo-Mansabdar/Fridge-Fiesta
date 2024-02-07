@@ -8,10 +8,10 @@ if (mouse_check_button(mb_left)) {
 
 awdsadw	
 
-<<<<<<< HEAD
-hello worldhello world
-hello worldhello worldhello worldhello worldhello world
-chihauhau
-=======
 hello world
->>>>>>> master
+hello world
+hello world
+hello world
+hello world
+hello world
+hello world
