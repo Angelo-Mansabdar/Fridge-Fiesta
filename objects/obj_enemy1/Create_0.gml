@@ -5,4 +5,3 @@ hp = global.hp;
 
 
 
-appel =1;
