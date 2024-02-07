@@ -8,3 +8,5 @@ if (mouse_check_button(mb_left)) {
 bla c_black 
 effect ofzo
 help
+
+tterr
