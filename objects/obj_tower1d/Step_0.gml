@@ -6,5 +6,5 @@ if (mouse_check_button(mb_left)) {
     y = mouse_y;
 };
 
-awd
+awdsadw	
 
