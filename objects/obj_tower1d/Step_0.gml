@@ -8,3 +8,4 @@ if (mouse_check_button(mb_left)) {
 test =0;
 
 
+testen = 100;
