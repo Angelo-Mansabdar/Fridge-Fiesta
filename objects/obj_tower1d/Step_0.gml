@@ -5,14 +5,4 @@ if (mouse_check_button(mb_left)) {
     x = mouse_x;
     y = mouse_y;
 };
-test =0;
-
-<<<<<<< HEAD
-test= 90; 
-speed=20;
-speed = 20 * room_speed;
-hp=20;
-=======
-
-testen = 00;
->>>>>>> a7520da8d9feea0dff06a8a82202fa5504795f7a
+speed=50;
