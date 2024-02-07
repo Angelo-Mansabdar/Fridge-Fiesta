@@ -7,4 +7,3 @@ if (global.coins >= cost)
 	global.coins -= cost;
 }
 
-
