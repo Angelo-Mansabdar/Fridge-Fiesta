@@ -9,3 +9,7 @@ if (mouse_check_button(mb_left)) {
 awdsadw	
 
 hello world
+hello world
+hello world
+hello world
+hello world
