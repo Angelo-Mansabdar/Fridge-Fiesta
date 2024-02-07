@@ -7,3 +7,6 @@ if (mouse_check_button(mb_left)) {
 };
 
 testen = 00;
+testennnn= 10;
+testennnn= 10;
+testennnn= 10;
