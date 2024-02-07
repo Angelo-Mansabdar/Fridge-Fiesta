@@ -6,5 +6,5 @@ if (mouse_check_button(mb_left)) {
     y = mouse_y;
 };
 
-var _up = keyboard_check(ord("W"));
+awd
 
