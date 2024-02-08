@@ -24,7 +24,9 @@
     {"name":"bullets","order":7,"path":"folders/Objects/bullets.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_tower2","order":1,"path":"objects/obj_tower2/obj_tower2.yy",},
     {"name":"obj_noplace","order":5,"path":"objects/obj_noplace/obj_noplace.yy",},
+    {"name":"spr_level1","order":4,"path":"sprites/spr_level1/spr_level1.yy",},
     {"name":"Path1","order":1,"path":"paths/Path1/Path1.yy",},
     {"name":"spr_tower2","order":1,"path":"sprites/spr_tower2/spr_tower2.yy",},
     {"name":"obj_tower_noplace","order":6,"path":"objects/obj_tower_noplace/obj_tower_noplace.yy",},
