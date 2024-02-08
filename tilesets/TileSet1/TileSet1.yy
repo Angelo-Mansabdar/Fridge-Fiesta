@@ -15,10 +15,7 @@
     "name": "Tile Sets",
     "path": "folders/Sounds/Tile Sets.yy",
   },
-  "spriteId": {
-    "name": "spr_tiles",
-    "path": "sprites/spr_tiles/spr_tiles.yy",
-  },
+  "spriteId": null,
   "spriteNoExport": false,
   "textureGroupId": {
     "name": "Default",
