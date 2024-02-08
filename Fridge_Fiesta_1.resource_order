@@ -22,9 +22,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_noplace","order":5,"path":"objects/obj_noplace/obj_noplace.yy",},
     {"name":"Path1","order":1,"path":"paths/Path1/Path1.yy",},
     {"name":"spr_tower2","order":1,"path":"sprites/spr_tower2/spr_tower2.yy",},
+    {"name":"obj_tower_noplace","order":6,"path":"objects/obj_tower_noplace/obj_tower_noplace.yy",},
     {"name":"spr_tower3","order":2,"path":"sprites/spr_tower3/spr_tower3.yy",},
+    {"name":"spr_noplace","order":3,"path":"sprites/spr_noplace/spr_noplace.yy",},
     {"name":"obj_spawn","order":1,"path":"objects/obj_spawn/obj_spawn.yy",},
   ],
 }

@@ -1,18 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_tower1",
+  "name": "obj_noplace",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "towers",
-    "path": "folders/Objects/towers.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
-  "parentObjectId": {
-    "name": "obj_tower_noplace",
-    "path": "objects/obj_tower_noplace/obj_tower_noplace.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,9 +26,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_tower1",
-    "path": "sprites/spr_tower1/spr_tower1.yy",
+    "name": "spr_noplace",
+    "path": "sprites/spr_noplace/spr_noplace.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
