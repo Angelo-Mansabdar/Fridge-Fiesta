@@ -42,9 +42,11 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"obj_tower2","path":"objects/obj_tower2/obj_tower2.yy",},},
     {"id":{"name":"obj_noplace","path":"objects/obj_noplace/obj_noplace.yy",},},
     {"id":{"name":"obj_tower1","path":"objects/obj_tower1/obj_tower1.yy",},},
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},},
+    {"id":{"name":"spr_level1","path":"sprites/spr_level1/spr_level1.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
     {"id":{"name":"spr_tower2","path":"sprites/spr_tower2/spr_tower2.yy",},},
     {"id":{"name":"obj_tower_noplace","path":"objects/obj_tower_noplace/obj_tower_noplace.yy",},},
@@ -58,11 +60,8 @@
     {"id":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},},
     {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},},
     {"id":{"name":"obj_sBullet","path":"objects/obj_sBullet/obj_sBullet.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
-  "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-  ],
+  "RoomOrderNodes": [],
   "templateType": "game",
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
