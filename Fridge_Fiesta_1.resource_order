@@ -20,6 +20,8 @@
     {"name":"enemies","order":1,"path":"folders/Sprites/enemies.yy",},
     {"name":"towers","order":2,"path":"folders/Sprites/towers.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"bullets","order":3,"path":"folders/Sprites/bullets.yy",},
+    {"name":"bullets","order":7,"path":"folders/Objects/bullets.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_noplace","order":5,"path":"objects/obj_noplace/obj_noplace.yy",},
