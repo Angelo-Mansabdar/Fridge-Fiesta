@@ -42,6 +42,7 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"obj_tower2","path":"objects/obj_tower2/obj_tower2.yy",},},
     {"id":{"name":"obj_noplace","path":"objects/obj_noplace/obj_noplace.yy",},},
     {"id":{"name":"obj_tower1","path":"objects/obj_tower1/obj_tower1.yy",},},
@@ -61,7 +62,9 @@
     {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},},
     {"id":{"name":"obj_sBullet","path":"objects/obj_sBullet/obj_sBullet.yy",},},
   ],
-  "RoomOrderNodes": [],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
   "templateType": "game",
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
