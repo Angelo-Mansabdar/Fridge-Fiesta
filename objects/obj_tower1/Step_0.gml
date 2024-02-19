@@ -15,3 +15,4 @@ if (point_distance(x,y,en.x,en.y) <= range){
 		}
 }
 
+kutspel
