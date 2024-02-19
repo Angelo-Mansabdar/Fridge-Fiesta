@@ -32,7 +32,7 @@
     {"name":"obj_tower_noplace","order":6,"path":"objects/obj_tower_noplace/obj_tower_noplace.yy",},
     {"name":"spr_tower3","order":2,"path":"sprites/spr_tower3/spr_tower3.yy",},
     {"name":"spr_noplace","order":3,"path":"sprites/spr_noplace/spr_noplace.yy",},
-    {"name":"Path1","order":1,"path":"paths/Path1/Path1.yy",},
+    {"name":"Path1","order":16,"path":"paths/Path1/Path1.yy",},
     {"name":"obj_spawn","order":1,"path":"objects/obj_spawn/obj_spawn.yy",},
   ],
 }
