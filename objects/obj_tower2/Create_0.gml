@@ -1,11 +1,7 @@
-range = 500;
-fire_rate = room_speed / 1.5;
+range = 1000;
+fire_rate = room_speed / 0.5;
 shooting = false; 
 objectToShoot = noone;
-
-
-
- 
 
 
 

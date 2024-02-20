@@ -5,8 +5,8 @@
   "closed": false,
   "kind": 1,
   "parent": {
-    "name": "Fridge_Fiesta_1",
-    "path": "Fridge_Fiesta_1.yyp",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
   "points": [
     {"speed":100.0,"x":-64.0,"y":704.0,},
