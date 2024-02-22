@@ -1,5 +1,5 @@
 col = c_white;
-range = 500;
+range = 400;
 
 
 

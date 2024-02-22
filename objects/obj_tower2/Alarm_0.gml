@@ -3,6 +3,7 @@ if(instance_exists(objectToShoot)){
 	bullet.speed= 10;
 	bullet.direction=point_direction(x,y,objectToShoot.x,objectToShoot.y);
 	alarm[0]=fire_rate; 
+	audio_play_sound(wind,0,false);
 }else{
 shooting = false;
 }

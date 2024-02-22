@@ -60,5 +60,6 @@ if (level==7&& lvl)
 	instance_create_depth(1600,90,-9,obj_prog7);
 	lv1 = false;
 	room_goto(Room2)
+	room_restart();
 }
 

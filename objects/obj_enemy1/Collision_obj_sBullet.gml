@@ -1,4 +1,4 @@
-hp -= 20;
+hp -= 25;
 with(other) instance_destroy()
 
 

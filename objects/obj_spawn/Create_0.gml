@@ -10,10 +10,11 @@ alarm[1] = room_speed * 5;
  lv1 = true; 
 
 global.hp = 130;
-global.spd = 2;
+global.spd = 2.2;
 
 global.level = 1;
 global.coins = 70;
+audio_play_sound(background,0,true);
 
 
 if (global.players == 1){
